@@ -1,4 +1,4 @@
-package handeles
+package handles
 
 import (
 	"fmt"
